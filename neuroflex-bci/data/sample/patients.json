@@ -1,0 +1,29 @@
+{
+  "note": "All records below are entirely synthetic and fictitious, generated for demo/testing purposes only. No real patient data is included in this repository.",
+  "patients": [
+    {
+      "patient_id": "P-1002",
+      "display_name": "Demo Patient A",
+      "implant_side": "right",
+      "implant_model": "NeuroFlex Cortical Array v3 (96-channel)",
+      "implant_date": "2025-01-14",
+      "prosthetic_model": "NeuroFlex Hand DH-7",
+      "dominant_hand_pre_injury": "right",
+      "clinician_id": "CLIN-004",
+      "site": "Demo Rehabilitation Center",
+      "enrolled_study": "NF-CTRL-001 (simulated)"
+    },
+    {
+      "patient_id": "P-1007",
+      "display_name": "Demo Patient B",
+      "implant_side": "left",
+      "implant_model": "NeuroFlex Cortical Array v3 (96-channel)",
+      "implant_date": "2025-06-02",
+      "prosthetic_model": "NeuroFlex Hand DH-7",
+      "dominant_hand_pre_injury": "left",
+      "clinician_id": "CLIN-002",
+      "site": "Demo Rehabilitation Center",
+      "enrolled_study": "NF-CTRL-001 (simulated)"
+    }
+  ]
+}

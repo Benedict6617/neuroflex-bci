@@ -1,0 +1,272 @@
+[
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-02",
+    "drift_index": 0.0,
+    "r2_score": 0.836,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 226
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-03",
+    "drift_index": 0.026,
+    "r2_score": 0.923,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 230
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-04",
+    "drift_index": 0.0,
+    "r2_score": 0.861,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 205
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-05",
+    "drift_index": 0.0,
+    "r2_score": 0.788,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 154
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-06",
+    "drift_index": 0.093,
+    "r2_score": 0.936,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 239
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-07",
+    "drift_index": 0.012,
+    "r2_score": 0.881,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 151
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-08",
+    "drift_index": 0.007,
+    "r2_score": 0.888,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 227
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-09",
+    "drift_index": 0.036,
+    "r2_score": 0.868,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 113
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-10",
+    "drift_index": 0.002,
+    "r2_score": 0.829,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 216
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-11",
+    "drift_index": 0.0,
+    "r2_score": 0.779,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 105
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-12",
+    "drift_index": 0.013,
+    "r2_score": 0.798,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 192
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-13",
+    "drift_index": 0.046,
+    "r2_score": 0.763,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 128
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-14",
+    "drift_index": 0.0,
+    "r2_score": 0.803,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 126
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-15",
+    "drift_index": 0.105,
+    "r2_score": 0.856,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 191
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-16",
+    "drift_index": 0.034,
+    "r2_score": 0.911,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 152
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-17",
+    "drift_index": 0.105,
+    "r2_score": 0.78,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 125
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-18",
+    "drift_index": 0.0,
+    "r2_score": 0.98,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 168
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-19",
+    "drift_index": 0.0,
+    "r2_score": 0.858,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 201
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-20",
+    "drift_index": 0.009,
+    "r2_score": 0.852,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 167
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-21",
+    "drift_index": 0.0,
+    "r2_score": 0.873,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 156
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-22",
+    "drift_index": 0.031,
+    "r2_score": 0.899,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 238
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-23",
+    "drift_index": 0.147,
+    "r2_score": 0.763,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 131
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-24",
+    "drift_index": 0.077,
+    "r2_score": 0.727,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 217
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-25",
+    "drift_index": 0.11,
+    "r2_score": 0.765,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 105
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-26",
+    "drift_index": 0.079,
+    "r2_score": 0.819,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 230
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-27",
+    "drift_index": 0.026,
+    "r2_score": 0.815,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 238
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-02-28",
+    "drift_index": 0.004,
+    "r2_score": 0.886,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 109
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-03-01",
+    "drift_index": 0.0,
+    "r2_score": 0.805,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 228
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-03-02",
+    "drift_index": 0.034,
+    "r2_score": 0.833,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 143
+  },
+  {
+    "patient_id": "P-1007",
+    "date": "2026-03-03",
+    "drift_index": 0.163,
+    "r2_score": 0.835,
+    "accepted": true,
+    "flagged_channels": [],
+    "duration_s": 219
+  }
+]

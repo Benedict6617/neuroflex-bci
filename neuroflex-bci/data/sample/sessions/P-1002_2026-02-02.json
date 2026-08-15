@@ -1,0 +1,590 @@
+{
+  "patient_id": "P-1002",
+  "session_id": "P-1002_2026-02-02",
+  "session_date": "2026-02-02",
+  "sampling_rate_hz": 30000,
+  "n_channels": 96,
+  "drift_index": 0.02,
+  "trials": [
+    {
+      "trial_start_s": 0.0,
+      "duration_s": 1.5,
+      "cued_grip": "lateral_key",
+      "decoded_grip": "lateral_key",
+      "decoder_confidence": 0.882,
+      "grip_force_n": 31.1,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 2.41,
+      "duration_s": 2.67,
+      "cued_grip": "rest",
+      "decoded_grip": "rest",
+      "decoder_confidence": 0.826,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 5.81,
+      "duration_s": 2.65,
+      "cued_grip": "rest",
+      "decoded_grip": "rest",
+      "decoder_confidence": 0.947,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 9.34,
+      "duration_s": 2.86,
+      "cued_grip": "point",
+      "decoded_grip": "point",
+      "decoder_confidence": 0.827,
+      "grip_force_n": 35.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 13.13,
+      "duration_s": 2.7,
+      "cued_grip": "rest",
+      "decoded_grip": "rest",
+      "decoder_confidence": 0.938,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 16.27,
+      "duration_s": 2.07,
+      "cued_grip": "pinch",
+      "decoded_grip": "pinch",
+      "decoder_confidence": 0.92,
+      "grip_force_n": 11.6,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 18.97,
+      "duration_s": 2.08,
+      "cued_grip": "tripod",
+      "decoded_grip": "tripod",
+      "decoder_confidence": 0.911,
+      "grip_force_n": 7.1,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 21.8,
+      "duration_s": 2.05,
+      "cued_grip": "lateral_key",
+      "decoded_grip": "lateral_key",
+      "decoder_confidence": 0.865,
+      "grip_force_n": 22.5,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 24.31,
+      "duration_s": 2.25,
+      "cued_grip": "rest",
+      "decoded_grip": "rest",
+      "decoder_confidence": 0.875,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 26.92,
+      "duration_s": 1.89,
+      "cued_grip": "point",
+      "decoded_grip": "point",
+      "decoder_confidence": 0.796,
+      "grip_force_n": 4.9,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 29.64,
+      "duration_s": 1.5,
+      "cued_grip": "rest",
+      "decoded_grip": "rest",
+      "decoder_confidence": 0.913,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 31.5,
+      "duration_s": 1.9,
+      "cued_grip": "open",
+      "decoded_grip": "open",
+      "decoder_confidence": 0.879,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 34.29,
+      "duration_s": 2.2,
+      "cued_grip": "tripod",
+      "decoded_grip": "tripod",
+      "decoder_confidence": 0.932,
+      "grip_force_n": 35.6,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 37.05,
+      "duration_s": 2.87,
+      "cued_grip": "tripod",
+      "decoded_grip": "tripod",
+      "decoder_confidence": 0.97,
+      "grip_force_n": 31.5,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 40.8,
+      "duration_s": 1.35,
+      "cued_grip": "tripod",
+      "decoded_grip": "tripod",
+      "decoder_confidence": 0.71,
+      "grip_force_n": 21.7,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 42.98,
+      "duration_s": 2.43,
+      "cued_grip": "rest",
+      "decoded_grip": "rest",
+      "decoder_confidence": 0.9,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 46.24,
+      "duration_s": 1.62,
+      "cued_grip": "lateral_key",
+      "decoded_grip": "lateral_key",
+      "decoder_confidence": 0.866,
+      "grip_force_n": 32.4,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 48.61,
+      "duration_s": 3.36,
+      "cued_grip": "point",
+      "decoded_grip": "point",
+      "decoder_confidence": 0.961,
+      "grip_force_n": 34.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 52.82,
+      "duration_s": 1.62,
+      "cued_grip": "power",
+      "decoded_grip": "power",
+      "decoder_confidence": 0.879,
+      "grip_force_n": 30.9,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 55.27,
+      "duration_s": 2.07,
+      "cued_grip": "point",
+      "decoded_grip": "point",
+      "decoder_confidence": 0.9,
+      "grip_force_n": 18.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 57.66,
+      "duration_s": 2.09,
+      "cued_grip": "lateral_key",
+      "decoded_grip": "lateral_key",
+      "decoder_confidence": 0.897,
+      "grip_force_n": 22.8,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 60.56,
+      "duration_s": 3.31,
+      "cued_grip": "power",
+      "decoded_grip": "power",
+      "decoder_confidence": 0.919,
+      "grip_force_n": 16.7,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 64.27,
+      "duration_s": 1.54,
+      "cued_grip": "point",
+      "decoded_grip": "point",
+      "decoder_confidence": 0.771,
+      "grip_force_n": 29.1,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 66.69,
+      "duration_s": 3.47,
+      "cued_grip": "open",
+      "decoded_grip": "open",
+      "decoder_confidence": 0.901,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 70.54,
+      "duration_s": 2.23,
+      "cued_grip": "rest",
+      "decoded_grip": "rest",
+      "decoder_confidence": 0.88,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 73.59,
+      "duration_s": 1.7,
+      "cued_grip": "rest",
+      "decoded_grip": "rest",
+      "decoder_confidence": 0.944,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 76.13,
+      "duration_s": 1.27,
+      "cued_grip": "rest",
+      "decoded_grip": "rest",
+      "decoder_confidence": 0.854,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 77.93,
+      "duration_s": 2.25,
+      "cued_grip": "power",
+      "decoded_grip": "power",
+      "decoder_confidence": 0.943,
+      "grip_force_n": 4.2,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 81.17,
+      "duration_s": 1.77,
+      "cued_grip": "lateral_key",
+      "decoded_grip": "lateral_key",
+      "decoder_confidence": 0.9,
+      "grip_force_n": 17.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 83.4,
+      "duration_s": 2.36,
+      "cued_grip": "rest",
+      "decoded_grip": "rest",
+      "decoder_confidence": 0.877,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 86.14,
+      "duration_s": 2.31,
+      "cued_grip": "rest",
+      "decoded_grip": "rest",
+      "decoder_confidence": 0.86,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 88.88,
+      "duration_s": 2.41,
+      "cued_grip": "tripod",
+      "decoded_grip": "tripod",
+      "decoder_confidence": 0.854,
+      "grip_force_n": 12.8,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 91.96,
+      "duration_s": 2.11,
+      "cued_grip": "tripod",
+      "decoded_grip": "tripod",
+      "decoder_confidence": 0.879,
+      "grip_force_n": 32.1,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 94.98,
+      "duration_s": 1.46,
+      "cued_grip": "rest",
+      "decoded_grip": "rest",
+      "decoder_confidence": 0.92,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 97.42,
+      "duration_s": 3.43,
+      "cued_grip": "open",
+      "decoded_grip": "open",
+      "decoder_confidence": 0.782,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 101.3,
+      "duration_s": 3.3,
+      "cued_grip": "pinch",
+      "decoded_grip": "pinch",
+      "decoder_confidence": 0.764,
+      "grip_force_n": 3.5,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 105.12,
+      "duration_s": 1.74,
+      "cued_grip": "pinch",
+      "decoded_grip": "pinch",
+      "decoder_confidence": 0.879,
+      "grip_force_n": 19.7,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 107.79,
+      "duration_s": 2.95,
+      "cued_grip": "point",
+      "decoded_grip": "point",
+      "decoder_confidence": 0.797,
+      "grip_force_n": 28.9,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 111.63,
+      "duration_s": 1.89,
+      "cued_grip": "tripod",
+      "decoded_grip": "tripod",
+      "decoder_confidence": 0.931,
+      "grip_force_n": 8.4,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 114.35,
+      "duration_s": 2.57,
+      "cued_grip": "rest",
+      "decoded_grip": "rest",
+      "decoder_confidence": 0.896,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 117.46,
+      "duration_s": 2.38,
+      "cued_grip": "open",
+      "decoded_grip": "open",
+      "decoder_confidence": 0.855,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 120.2,
+      "duration_s": 3.05,
+      "cued_grip": "open",
+      "decoded_grip": "open",
+      "decoder_confidence": 0.819,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 123.75,
+      "duration_s": 2.68,
+      "cued_grip": "point",
+      "decoded_grip": "point",
+      "decoder_confidence": 0.928,
+      "grip_force_n": 38.1,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 127.03,
+      "duration_s": 3.12,
+      "cued_grip": "power",
+      "decoded_grip": "power",
+      "decoder_confidence": 0.894,
+      "grip_force_n": 14.7,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 130.92,
+      "duration_s": 2.97,
+      "cued_grip": "rest",
+      "decoded_grip": "rest",
+      "decoder_confidence": 0.893,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 134.24,
+      "duration_s": 3.4,
+      "cued_grip": "point",
+      "decoded_grip": "point",
+      "decoder_confidence": 0.856,
+      "grip_force_n": 19.8,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 138.23,
+      "duration_s": 2.88,
+      "cued_grip": "point",
+      "decoded_grip": "point",
+      "decoder_confidence": 0.843,
+      "grip_force_n": 5.2,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 141.8,
+      "duration_s": 1.29,
+      "cued_grip": "pinch",
+      "decoded_grip": "pinch",
+      "decoder_confidence": 0.804,
+      "grip_force_n": 19.2,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 143.84,
+      "duration_s": 2.56,
+      "cued_grip": "pinch",
+      "decoded_grip": "pinch",
+      "decoder_confidence": 0.817,
+      "grip_force_n": 10.4,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 146.84,
+      "duration_s": 2.24,
+      "cued_grip": "lateral_key",
+      "decoded_grip": "lateral_key",
+      "decoder_confidence": 0.919,
+      "grip_force_n": 30.5,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 149.88,
+      "duration_s": 2.27,
+      "cued_grip": "pinch",
+      "decoded_grip": "pinch",
+      "decoder_confidence": 0.918,
+      "grip_force_n": 25.6,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 153.02,
+      "duration_s": 2.13,
+      "cued_grip": "tripod",
+      "decoded_grip": "tripod",
+      "decoder_confidence": 0.853,
+      "grip_force_n": 23.2,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 155.73,
+      "duration_s": 2.27,
+      "cued_grip": "point",
+      "decoded_grip": "point",
+      "decoder_confidence": 0.864,
+      "grip_force_n": 30.7,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 158.66,
+      "duration_s": 2.08,
+      "cued_grip": "power",
+      "decoded_grip": "power",
+      "decoder_confidence": 0.812,
+      "grip_force_n": 34.1,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 161.59,
+      "duration_s": 1.28,
+      "cued_grip": "power",
+      "decoded_grip": "power",
+      "decoder_confidence": 0.758,
+      "grip_force_n": 16.8,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 163.77,
+      "duration_s": 2.73,
+      "cued_grip": "pinch",
+      "decoded_grip": "pinch",
+      "decoder_confidence": 0.801,
+      "grip_force_n": 27.8,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 167.2,
+      "duration_s": 1.87,
+      "cued_grip": "power",
+      "decoded_grip": "power",
+      "decoder_confidence": 0.823,
+      "grip_force_n": 13.1,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    },
+    {
+      "trial_start_s": 169.68,
+      "duration_s": 2.23,
+      "cued_grip": "open",
+      "decoded_grip": "open",
+      "decoder_confidence": 0.769,
+      "grip_force_n": 0.0,
+      "interlock_tripped": false,
+      "interlock_reason": "none"
+    }
+  ]
+}
